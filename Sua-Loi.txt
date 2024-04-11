@@ -1,0 +1,42 @@
+Thay đổi cho tiền tặng khi đăng ký:
+\back-end\models\NguoiDung.js 
+(money: {
+     type: Number,
+      default: 0,
+    },
+
+
+Thay đổi số tiền nạp tối thiểu:
+\back-end\configs\deposit.config.js
+
+
+Thay đổi số tiền rút tối thiểu:
+\back-end\configs\withdraw.config.js
+\front-end\components\withdraw\FormWithDraw.js
+\front-end\components\withdraw\HuongDan.js
+
+
+Chỉnh thời gian các game:
+\back-end\services\ 
+
+Chỉnh số tiền đặt cược tối thiểu:
+Game Keno: "\back-end\configs\game.keno.js" 
+Game XoSo: "\back-end\configs\game.xoso.js" 
+Game XocDia: "\back-end\configs\game.xocdia.js" 
+Chỉnh dòng: const MIN_BET_MONEY = 1; thành số tiền tối thiểu
+
+Phần chat hỗ trợ khách hàng:
+\front-end\pages\contact\index.js
+=>https://namanh89.ladesk.com/scripts/inline_chat.php?cwid=1rlvurso
+https://widget-page.smartsupp.com/widget/1a167156fb4374f35af529438f086141075ea344
+
+
+Các từ bạn nên thay:
+Tegalott</p>
+Tegalott
+Tegalott
+TEGALOTT
+SANDSGP
+DRAGON690
+@ThinhLe2013478
+https://i.imgur.com/JbAkY41.png =>https://i.ibb.co/0cQnxF3/bannerimg.jpg
